@@ -1,6 +1,6 @@
-# Searching Wars Characters
+# Searching Star Wars Characters
 
-This exercise were part of "Select Topics in Python: Packaging" in Coursera by Codio. 
+This exercise were part of "Select Topics in Python: Packaging" course in Coursera by Codio. 
 
 We are going to use this package to query a Star Wars API and print a short description of a character that looks like the output below. In addition, the script should be able to handle a list of characters returned from the API.
 
